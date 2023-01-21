@@ -1,0 +1,15 @@
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\bin\Debug\net7.0\triabgle area calculate.exe
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\bin\Debug\net7.0\triabgle area calculate.deps.json
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\bin\Debug\net7.0\triabgle area calculate.runtimeconfig.json
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\bin\Debug\net7.0\triabgle area calculate.dll
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\bin\Debug\net7.0\triabgle area calculate.pdb
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.csproj.AssemblyReference.cache
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.AssemblyInfo.cs
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.dll
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\refint\triabgle area calculate.dll
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.pdb
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\triabgle area calculate.genruntimeconfig.cache
+C:\Users\Win 10 Pro\Desktop\C#\triabgle area calculate\obj\Debug\net7.0\ref\triabgle area calculate.dll

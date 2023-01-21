@@ -1,0 +1,15 @@
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\bin\Debug\net7.0\swapping number.exe
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\bin\Debug\net7.0\swapping number.deps.json
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\bin\Debug\net7.0\swapping number.runtimeconfig.json
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\bin\Debug\net7.0\swapping number.dll
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\bin\Debug\net7.0\swapping number.pdb
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.csproj.AssemblyReference.cache
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.AssemblyInfo.cs
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.dll
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\refint\swapping number.dll
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.pdb
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\swapping number.genruntimeconfig.cache
+C:\Users\Win 10 Pro\Desktop\C#\swapping number\obj\Debug\net7.0\ref\swapping number.dll

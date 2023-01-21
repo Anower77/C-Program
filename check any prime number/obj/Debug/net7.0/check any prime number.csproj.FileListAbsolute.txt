@@ -1,0 +1,15 @@
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\bin\Debug\net7.0\check any prime number.exe
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\bin\Debug\net7.0\check any prime number.deps.json
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\bin\Debug\net7.0\check any prime number.runtimeconfig.json
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\bin\Debug\net7.0\check any prime number.dll
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\bin\Debug\net7.0\check any prime number.pdb
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.csproj.AssemblyReference.cache
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.AssemblyInfo.cs
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.dll
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\refint\check any prime number.dll
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.pdb
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\check any prime number.genruntimeconfig.cache
+C:\Users\Win 10 Pro\Desktop\C#\check any prime number\obj\Debug\net7.0\ref\check any prime number.dll

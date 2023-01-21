@@ -1,0 +1,15 @@
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\bin\Debug\net7.0\prime number 1 to 50.exe
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\bin\Debug\net7.0\prime number 1 to 50.deps.json
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\bin\Debug\net7.0\prime number 1 to 50.runtimeconfig.json
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\bin\Debug\net7.0\prime number 1 to 50.dll
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\bin\Debug\net7.0\prime number 1 to 50.pdb
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.csproj.AssemblyReference.cache
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.AssemblyInfo.cs
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.dll
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\refint\prime number 1 to 50.dll
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.pdb
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\prime number 1 to 50.genruntimeconfig.cache
+C:\Users\Win 10 Pro\Desktop\C#\prime number 1 to 50\obj\Debug\net7.0\ref\prime number 1 to 50.dll

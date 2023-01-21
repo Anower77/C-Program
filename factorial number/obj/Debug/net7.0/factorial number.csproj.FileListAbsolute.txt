@@ -1,0 +1,15 @@
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\bin\Debug\net7.0\factorial number.exe
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\bin\Debug\net7.0\factorial number.deps.json
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\bin\Debug\net7.0\factorial number.runtimeconfig.json
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\bin\Debug\net7.0\factorial number.dll
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\bin\Debug\net7.0\factorial number.pdb
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.csproj.AssemblyReference.cache
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.AssemblyInfo.cs
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.dll
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\refint\factorial number.dll
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.pdb
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\factorial number.genruntimeconfig.cache
+C:\Users\Win 10 Pro\Desktop\C#\factorial number\obj\Debug\net7.0\ref\factorial number.dll

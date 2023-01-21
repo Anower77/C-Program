@@ -1,0 +1,15 @@
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\bin\Debug\net7.0\quadratic equation ax2+bx+c=0.exe
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\bin\Debug\net7.0\quadratic equation ax2+bx+c=0.deps.json
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\bin\Debug\net7.0\quadratic equation ax2+bx+c=0.runtimeconfig.json
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\bin\Debug\net7.0\quadratic equation ax2+bx+c=0.dll
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\bin\Debug\net7.0\quadratic equation ax2+bx+c=0.pdb
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.csproj.AssemblyReference.cache
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.AssemblyInfo.cs
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.dll
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\refint\quadratic equation ax2+bx+c=0.dll
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.pdb
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\quadratic equation ax2+bx+c=0.genruntimeconfig.cache
+C:\Users\Win 10 Pro\Desktop\C#\quadratic equation ax2+bx+c=0\obj\Debug\net7.0\ref\quadratic equation ax2+bx+c=0.dll

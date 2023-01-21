@@ -1,0 +1,15 @@
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\bin\Debug\net7.0\which number is greatest among three numbers.exe
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\bin\Debug\net7.0\which number is greatest among three numbers.deps.json
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\bin\Debug\net7.0\which number is greatest among three numbers.runtimeconfig.json
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\bin\Debug\net7.0\which number is greatest among three numbers.dll
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\bin\Debug\net7.0\which number is greatest among three numbers.pdb
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.csproj.AssemblyReference.cache
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.AssemblyInfoInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.AssemblyInfo.cs
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.csproj.CoreCompileInputs.cache
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.dll
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\refint\which number is greatest among three numbers.dll
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.pdb
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\which number is greatest among three numbers.genruntimeconfig.cache
+C:\Users\Win 10 Pro\Desktop\C#\which number is greatest among three numbers\obj\Debug\net7.0\ref\which number is greatest among three numbers.dll
